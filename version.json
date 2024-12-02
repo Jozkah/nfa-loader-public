@@ -1,6 +1,6 @@
 {
     "latest_version": "2.0.4",
-    "change_log": "Added launch options, Added auto open CS2, Added advanced options button to hide clutter",
+    "change_log": "Added launch options, Added auto open CS2, Added advanced options button to hide clutter,\nDouble clicking in an account now opens\na the account profile",
     "download_url": "https://gamesense.pub/",
     "force_update_below_version": "2.0.0"
 }
