@@ -1,6 +1,6 @@
 {
-    "latest_version": "2.4.1",
-    "change_log": "Added launch options, Added auto open CS2, Added advanced options button to hide clutter,\nDouble clicking in an account now opens\n the account profile, The string textbox is cleared automatically",
+    "latest_version": "2.5.0",
+    "change_log": "Added bulk account importing, Old accounts are now backed up/restored\n once you load another account \n\nDISCLAIMER:\n DO NOT USE 'CHANGE ACCOUNT' BUTTON",
     "download_url": "https://gamesense.pub/",
     "force_update_below_version": "2.0.0"
 }
