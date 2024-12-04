@@ -1,6 +1,6 @@
 {
-    "latest_version": "2.5.0",
-    "change_log": "Added bulk account importing,\nOld accounts are now backed up/restored\n once you load another account \n\nDISCLAIMER:\n DO NOT USE 'CHANGE ACCOUNT' BUTTON",
-    "download_url": "https://we.tl/t-6Z00C7oRMU",
+    "latest_version": "2.5.1",
+    "change_log": "Added last played timestamp, removed backup/restore console spam",
+    "download_url": "https://we.tl/t-lsRnvasDmd",
     "force_update_below_version": "2.3.0"
 }
