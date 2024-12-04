@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.5.2",
+    "latest_version": "2.5.1",
     "change_log": "Fixed last played timestamp, Fixed the update pop-up",
     "download_url": "https://we.tl/t-HLLEGxiMSF",
     "force_update_below_version": "2.3.0"
