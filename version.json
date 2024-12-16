@@ -1,6 +1,6 @@
 {
-    "latest_version": "2.5.2",
-    "change_log": "Fixed bugs with last_played, Massively reduced terminal spam",
-    "download_url": "https://we.tl/t-jBUgStRCee",
+    "latest_version": "2.5.3",
+    "change_log": "Fixed token expired function",
+    "download_url": "https://we.tl/t-RVoRs4Q7it",
     "force_update_below_version": "2.5.0"
 }
